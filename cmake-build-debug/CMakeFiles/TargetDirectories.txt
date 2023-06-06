@@ -1,0 +1,3 @@
+/home/karolina/University/saper/cmake-build-debug/CMakeFiles/saper.dir
+/home/karolina/University/saper/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/karolina/University/saper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
